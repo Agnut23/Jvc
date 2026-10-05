@@ -1,0 +1,33 @@
+{
+  "animeId": "death-note",
+  "seasonNumber": 1,
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Rebirth",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MCGi39l9X8BlCr8F0z2tAgKUbkkXvBwXHrWxfuANzA&s=10",
+      "youtubeVideoId": "https://youtu.be/P2uypwLUfmE?si=64QYUaNJrKDW_sSg",
+      "subtitles": [],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#" }
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Confrontation",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_PEBqxAADJf8EYZS2w_SO3V6Xz-TLGNwrbvhfXk3uQ&s=10",
+      "youtubeVideoId": "https://youtu.be/VGnOyGOGx-M?si=AZ1BTyb7zbNn_-2q",
+      "subtitles": [],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#" }
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Dealings",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lBC2WUVdpzuPFGC16kkAUIc4mbxXoNLq7_xifLHrjA&s=10",
+      "youtubeVideoId": "https://youtu.be/bzCdhxVV3fI?si=nyM3CspPAhrFNNnw",
+      "subtitles": [],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#" }
+    }
+  ]
+}

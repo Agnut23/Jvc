@@ -1,0 +1,33 @@
+{
+  "animeId": "demon-slayer",
+  "seasonNumber": 1,
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Cruelty",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF5zciVCI4auO-NMyJ9W2mb19yCjJe1uKnatEDmjAUJXAKAHVOPgUkCA&s=10",
+      "youtubeVideoId": "https://youtu.be/ub35Ibew1-o?si=HSL7LUliUrSVmA7S",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/ds-s1-e1-en.vtt" }],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#", "sub_file": "/subs/ds-s1-e1-en.vtt" }
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Trainer Sakonji Urokodaki",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk79UZDrwZdtJiR-4biTLMaVIYFP3YlvVmgb6kSe5qyA&s=10",
+      "youtubeVideoId": "https://youtu.be/HFAzgHHITVM?si=p5OrQ7hUw3IpdKKn",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/ds-s1-e2-en.vtt" }],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#", "sub_file": "/subs/ds-s1-e2-en.vtt" }
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Sabito and Makomo",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZT5gbqmnYwLZ4t2fm-XrWXeW6gOV63k7qmflhl9fMH_HFhN-EziV0y7YF&s=10",
+      "youtubeVideoId": "https://youtu.be/RGr9-6aqGec?si=MH1JfVnmfCeMp11x",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/ds-s1-e3-en.vtt" }],
+      "downloadLinks": { "dubbed_720p": "#", "dubbed_1080p": "#", "sub_file": "/subs/ds-s1-e3-en.vtt" }
+    }
+  ]
+}

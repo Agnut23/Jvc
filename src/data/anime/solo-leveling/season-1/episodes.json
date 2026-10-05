@@ -1,0 +1,45 @@
+{
+  "animeId": "solo-leveling",
+  "seasonNumber": 1,
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "I'm Used to It",
+      "duration": "24 min",
+      "thumbnail": "https://i.pinimg.com/736x/db/70/37/db7037de7e594360eff498c1da97fcda.jpg",
+      "youtubeVideoId": "https://youtu.be/wHh3kiBs52Q?si=fWUu8SRjsEP8_RAC",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/sl-s1-e1-en.vtt" }],
+      "downloadLinks": {
+        "dubbed_720p": "#",
+        "dubbed_1080p": "#",
+        "sub_file": "/subs/sl-s1-e1-en.vtt"
+      }
+    },
+    {
+      "episodeNumber": 2,
+      "title": "If I Had One More Chance",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4W7-Kvabz3FsSXLkbmmsvJZgx9Oqgs4Tg3F_xZ2AOw&s=10",
+      "youtubeVideoId": "https://youtu.be/u9xaEqXmOnc?si=A7WOKX4cHK7H6-nx",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/sl-s1-e2-en.vtt" }],
+      "downloadLinks": {
+        "dubbed_720p": "#",
+        "dubbed_1080p": "#",
+        "sub_file": "/subs/sl-s1-e2-en.vtt"
+      }
+    },
+    {
+      "episodeNumber": 3,
+      "title": "It's Like a Game",
+      "duration": "24 min",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrO9MBF3INH8HyFHyaubnt_SEBbM9TOATOH1djK10uidkogDnqmCT9qLd-&s=10",
+      "youtubeVideoId": "https://youtu.be/U6LNR8dLZo0?si=76TwFI0zIZsnvjWK",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/sl-s1-e3-en.vtt" }],
+      "downloadLinks": {
+        "dubbed_720p": "#",
+        "dubbed_1080p": "#",
+        "sub_file": "/subs/sl-s1-e3-en.vtt"
+      }
+    }
+  ]
+}

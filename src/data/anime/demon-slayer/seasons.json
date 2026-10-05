@@ -1,0 +1,10 @@
+{
+  "id": "demon-slayer",
+  "title": "Demon Slayer",
+  "seasons": [
+    { "seasonNumber": 1, "title": "Season 1 — Tanjiro Kamado, Unwavering Resolve", "episodeCount": 26, "year": 2019 },
+    { "seasonNumber": 2, "title": "Season 2 — Mugen Train / Entertainment District", "episodeCount": 18, "year": 2021 },
+    { "seasonNumber": 3, "title": "Season 3 — Swordsmith Village", "episodeCount": 11, "year": 2023 },
+    { "seasonNumber": 4, "title": "Season 4 — Hashira Training", "episodeCount": 8, "year": 2024 }
+  ]
+}

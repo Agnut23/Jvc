@@ -1,0 +1,7 @@
+{
+  "id": "death-note",
+  "title": "Death Note",
+  "seasons": [
+    { "seasonNumber": 1, "title": "Season 1", "episodeCount": 37, "year": 2006 }
+  ]
+}

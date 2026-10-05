@@ -1,0 +1,47 @@
+{
+  "movies": [
+    {
+      "id": "your-name",
+      "youtubeVideoId": "https://youtu.be/h0Dh1k9tciY?si=YmwYANEjgPysvn8y",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/your-name-en.vtt" }],
+      "downloadLinks": {
+        "dubbed_720p": "#",
+        "dubbed_1080p": "#",
+        "sub_file": "/subs/your-name-en.vtt"
+      }
+    },
+    {
+  "id": "suzume",
+  "youtubeVideoId": "https://youtu.be/zd7NmTz5ZU4?si=QiDq7-LAGabJnA8p",
+  "subtitles": [
+    { "language": "English", "label": "EN", "url": "/subs/suzume-en.vtt" }
+  ],
+  "downloadLinks": {
+    "dubbed_720p": "#",
+    "dubbed_1080p": "#",
+    "sub_file": "/subs/suzume-en.vtt"
+  }
+},{
+  "id": "spider-man-into-the-spider-verse",
+  "youtubeVideoId": "https://youtu.be/FZ9wv1unnRg?si=SttEVzlboS2nZI4N",
+  "subtitles": [
+    { "language": "English", "label": "EN", "url": "/subs/spider-man-into-the-spider-verse-en.vtt" }
+  ],
+  "downloadLinks": {
+    "dubbed_720p": "#",
+    "dubbed_1080p": "#",
+    "sub_file": "/subs/spider-man-into-the-spider-verse-en.vtt"
+  }
+},
+    {
+      "id": "demon-slayer-mugen-train",
+      "youtubeVideoId": "https://youtu.be/ATJYac_dORw?si=B7nXzAYNd6HLZ1vX",
+      "subtitles": [{ "language": "English", "label": "EN", "url": "/subs/mugen-train-en.vtt" }],
+      "downloadLinks": {
+        "dubbed_720p": "#",
+        "dubbed_1080p": "#",
+        "sub_file": "/subs/mugen-train-en.vtt"
+      }
+    }
+  ]
+}
